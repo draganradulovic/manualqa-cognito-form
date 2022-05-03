@@ -9,4 +9,4 @@ This project contains following documents:\
 3.Test cases - defined steps for each test case, with expected results and testing data.\
 4.Defect reports - recorded defects, with additional defect details.\
 5.Improvements- list of potential UX improvements, with descriptions.\
-\
+
