@@ -8,5 +8,5 @@ This project contains following documents:\
 2.Test scenario - list of test cases that must cover all possible use cases.\
 3.Test cases - defined steps for each test case, with expected results and testing data.\
 4.Defect reports - recorded defects, with additional defect details.\
-5.Improvements- list of potential UX improvements, with descriptions.\
+5.Improvements- list of potential UX improvements, with descriptions.
 
